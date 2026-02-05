@@ -53,6 +53,6 @@ Cost-saving practices are documented here:
 ## 🔗 Project Reference
 The deployed application source code:
 
-➡️ https://github.com/0902kishan/alumni-management-system
+➡️ https://github.com/0902kishan/0902kishan-alumni-management-system
 
 This separation of **application code** and **cloud infrastructure** reflects real-world cloud engineering practices.
